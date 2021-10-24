@@ -1,0 +1,18 @@
+CREATE TABLE users (
+    personID int,
+    username varchar(255),
+    password varchar(255),
+    confirmation varchar(255),
+    name varchar(255),
+    address varchar(255),
+    city varchar(255),
+    age int,
+    major varchar(255),
+    pronouns varchar(255),
+    location varchar(255),
+    bio varchar(255),
+    genderpref varchar(255),
+    mess varchar(255),
+    sleep varchar(255),
+    social varchar(255)
+);
